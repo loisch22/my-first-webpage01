@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+h1 {
+  color: #F1948A;
+  font-size: 110px;
+}
+h2 {
+  color: #85C1E9;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: left;
+}
+ol {
+  text-align: left;
+  line-height: 40px;
+}
